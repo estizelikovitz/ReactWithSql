@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactWithSql.Web", "ReactWithSql\ReactWithSql.Web.csproj", "{94403AF4-8C7B-4C69-B263-CC737B42F833}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactWithSql.Data", "ReactWithSql.Data\ReactWithSql.Data.csproj", "{6C1B0A27-8F92-4CD1-9F7A-1A25DF071533}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94403AF4-8C7B-4C69-B263-CC737B42F833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94403AF4-8C7B-4C69-B263-CC737B42F833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94403AF4-8C7B-4C69-B263-CC737B42F833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94403AF4-8C7B-4C69-B263-CC737B42F833}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C1B0A27-8F92-4CD1-9F7A-1A25DF071533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C1B0A27-8F92-4CD1-9F7A-1A25DF071533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C1B0A27-8F92-4CD1-9F7A-1A25DF071533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C1B0A27-8F92-4CD1-9F7A-1A25DF071533}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AFDABC6-0BCD-4912-8BEE-AEEC412C3021}
+	EndGlobalSection
+EndGlobal
